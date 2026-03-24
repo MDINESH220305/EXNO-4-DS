@@ -1,4 +1,6 @@
 # EXNO:4-DS
+# Name: Dinesh M
+# Register:212222043002
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
